@@ -16,7 +16,7 @@
     },
     {
         "name": "fr",
-        "value": "0jBxOCrQxp0qTIiYA.AWfdtn7vrW_o_ZyNOYBhpHkUDL-eqvHnWatRCOeCyIRy_bop0zU.Bp9zL9..AAA.0.0.Bp-agC.AWd8_ccjHDhhTMoNvZYj7fjqxUE",
+        "value": "0jBxOCrQxp0qTIiYA.AWdKnAQSvRDPw5zcLcLMjscyhQk8bRzH0uu2wxFElf6gD8D4EUo.Bp9zL9..AAA.0.0.Bp-bm7.AWcasPxQe50znDW5eLi--Tepp9o",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -26,7 +26,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1785745153.125,
+        "expirationDate": 1785749690.751,
         "storeId": null
     },
     {
@@ -41,7 +41,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1783153154,
+        "expirationDate": 1783157691,
         "storeId": null
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "name": "fbl_st",
-        "value": "100739004%3BT%3A29632819",
+        "value": "101236286%3BT%3A29632894",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -71,7 +71,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1809505154,
+        "expirationDate": 1809509691,
         "storeId": null
     },
     {
@@ -116,7 +116,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1812529153.125,
+        "expirationDate": 1812533690.751,
         "storeId": null
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "name": "wl_cbv",
-        "value": "v2%3Bclient_version%3A3157%3Btimestamp%3A1777969154",
+        "value": "v2%3Bclient_version%3A3157%3Btimestamp%3A1777973691",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -146,7 +146,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1785745153,
+        "expirationDate": 1785749691,
         "storeId": null
     }
 ]
